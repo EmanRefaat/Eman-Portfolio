@@ -19,7 +19,7 @@ This project I did was Conducting Data Wrangling & EDA using EXCEL.
 
 This project I did was Conducting EDA using EXCEL. Visualization and Dashboard made by Tableau
 You are a data analyst at Dental Pharma, Inc., a company that manufactures and markets pharmaceutical products, particularly for dental use.
-the management wants to standardize the monitoring of various projects within the company. They want to make strategic project data visually accessible to directors.
-* Data : They has provided the following files[The project data with the countries and their project data, The referential table with the correspondence between countries and regions in the data set, A data dictionary. Here, you will also find information related to the countries classification (affiliate or distributor)]
+The management wants to standardize the monitoring of various projects within the company. They want to make strategic project data visually accessible to directors.
+* Data : They has provided the following files[The project data with the countries.csv, project data.csv,and data dictionary.csv] from 2017-2018
 
 * Presentation : You can see Analysis presentation for this project using this link (https://prezi.com/view/yDIVcJVFUiCbnq72fI4z/)
