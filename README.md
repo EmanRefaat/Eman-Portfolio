@@ -9,7 +9,7 @@
 -----------------------------------------------------------------------------------------------------------
 # [Project 2: Energy Demand project — Exploratory Data Analysis](https://github.com/EmanRefaat/Energy-Demand/)
 
-This project I did was Conducting Data Wrangling & EDA using EXCEL. 
+This project I did was Conducting Data Wrangling & EDA using EXCEL. Use a spreadsheet to transform a csv file into tables and charts that display the energy demand over time and factors affecting that demand. 
 * Data : Sample project for AusEnergy. They has provided a file called energy_demand.csv showing daily energy demand and price information from 2015-2020. It also includes details of the weather on each day.
 
 * Presentation : You can see Analysis presentation for this project using this link (https://prezi.com/view/MZKoP5qBmolekugX8H9z/)
