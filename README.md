@@ -1,8 +1,15 @@
-![image](https://github.com/EmanRefaat/Eman-s-Portfolio/assets/2356726/92755143-e22b-4273-8112-1fb4d81932e5)
+![image](https://github.com/EmanRefaat/Eman-s-Portfolio/assets/2356726/ef3fa0b7-e299-4147-845a-b7a43e07bf3f)
 
 # Eman's Portfolio
 -----------
 I specialize in transforming raw data into actionable insights. Leveraging advanced data wrangling and exploratory data analysis (EDA) techniques, I bring clarity to complex datasets.
+## Why Choose Me:
+
+* ✨ Holistic Data Approach: Adept at handling end-to-end data processes, from collection to visualization, ensuring a comprehensive understanding.
+* 🤖 Tech-Savvy: Proficient in Python, Excel, and Tableau, embracing the latest technologies for efficient and effective data analysis.
+* 🔍 Insightful Analysis: Committed to delivering insights that drive strategic business decisions, translating data into actionable recommendations.
+
+Ready to elevate your data strategy? Let's collaborate on your next project! [Connect with me](https://www.linkedin.com/in/eman-refaat/)
 
 # [Project 1: Hotel Booking project — Exploratory Data Analysis](https://github.com/EmanRefaat/Hotel-Booking-EDA)
 
