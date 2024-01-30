@@ -1,3 +1,5 @@
+![image](https://github.com/EmanRefaat/Eman-s-Portfolio/assets/2356726/92755143-e22b-4273-8112-1fb4d81932e5)
+
 # Eman's Portfolio
 -----------
 I specialize in transforming raw data into actionable insights. Leveraging advanced data wrangling and exploratory data analysis (EDA) techniques, I bring clarity to complex datasets.
