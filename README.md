@@ -1,8 +1,6 @@
 ![image](https://github.com/EmanRefaat/Eman-s-Portfolio/assets/2356726/ef3fa0b7-e299-4147-845a-b7a43e07bf3f)
-
-# Eman's Portfolio
 -----------
-I specialize in transforming raw data into actionable insights. Leveraging advanced data wrangling and exploratory data analysis (EDA) techniques, I bring clarity to complex datasets.
+Eman specialize in transforming raw data into actionable insights. Leveraging advanced data wrangling and exploratory data analysis (EDA) techniques, I bring clarity to complex datasets.
 ## Why Choose Me:
 
 * ✨ Holistic Data Approach: Adept at handling end-to-end data processes, from collection to visualization, ensuring a comprehensive understanding.
