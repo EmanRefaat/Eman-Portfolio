@@ -1,5 +1,7 @@
 # Eman's Portfolio
 -----------
+I specialize in transforming raw data into actionable insights. Leveraging advanced data wrangling and exploratory data analysis (EDA) techniques, I bring clarity to complex datasets.
+
 # [Project 1: Hotel Booking project — Exploratory Data Analysis](https://github.com/EmanRefaat/Hotel-Booking-EDA)
 
 ​​This project I did was Conducting Data Wrangling & EDA using Python. Visualization made by Tableau.
