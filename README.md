@@ -32,3 +32,12 @@ The management wants to standardize the monitoring of various projects within th
 * Data : They has provided the following files[The project data with the countries.csv, project data.csv,and data dictionary.csv] from 2017-2018
 
 * [Presentation Analysis link](https://prezi.com/view/yDIVcJVFUiCbnq72fI4z/)
+
+-----------------------------------------------------------------------------------------------------------------------
+## [Project 4 : Assess the quality of the Dataset for a public service Agency ](https://github.com/EmanRefaat/Assess-quality-of-Dataset)
+
+This project I did was Conducting Scaping from Diferenace data source & Assess qulity of dataset using Python. 
+Work on data acquisition project for the parks and open spaces team of a country council and help them decide if they have good enough data to deliver on several projects.
+Compile and clean the data using the Python function and evaluate its quality.
+
+* [Presentation Analysis link](https://prezi.com/view/V6wgZ0DxWT3nllKfCOoy/)
