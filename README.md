@@ -35,9 +35,17 @@ The management wants to standardize the monitoring of various projects within th
 
 -----------------------------------------------------------------------------------------------------------------------
 ## [Project 4 : Assess the quality of the Dataset for a public service Agency ](https://github.com/EmanRefaat/Assess-quality-of-Dataset)
-
-This project I did was Conducting Scaping from Diferenace data source & Assess qulity of dataset using Python. 
+Main taske here, To ensure the integrity and accuracy of the data used for these analyses.
+This project I did was Conducting Scaping from Diferenace data source & Assess qulity of dataset using Python by following, Accuracy Verification, Completeness Checks,Consistency Assurance and Uniqueness Enforcement. 
 Work on data acquisition project for the parks and open spaces team of a country council and help them decide if they have good enough data to deliver on several projects.
 Compile and clean the data using the Python function and evaluate its quality.
 
 * [Presentation Analysis link](https://prezi.com/view/V6wgZ0DxWT3nllKfCOoy/)
+
+-----------------------------------------------------------------------------------------------------------------------
+## [Project 5 : Retrieve User Activity Data on an Online Forum Using SQL ](https://github.com/EmanRefaat/Retrieve-User-Activity-Data-on-an-Online-Forum-Using-SQL)
+My primary responsibility was to optimize and operate the website's data model to ensure it could deliver the necessary insights efficiently and accurately.
+This project I did was focusing on Data Model Assessment using entity-relationship diagram (ERD), Query Development using SQL, and Database Design Optimization by applying normalization principles.
+Dive into a dataset and provide invaluable insights to your social media manager on user interaction on your company’s website. Identify information such as top users, locations, and the number of comments.
+
+* [Presentation Analysis link](https://prezi.com/view/LzpARydNV8qjNQKVTi2N/)
