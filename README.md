@@ -4,7 +4,7 @@ Eman specializes in transforming raw data into actionable insights. Leveraging a
 ## Why Choose Me:
 
 * ✨ Holistic Data Approach: Adept at handling end-to-end data processes, from collection to visualization, ensuring a comprehensive understanding.
-* 🤖 Tech-Savvy: Proficient in Python, Excel, and Tableau, embracing the latest technologies for efficient and effective data analysis.
+* 🤖 Tech-Savvy: Proficient in Python, Excel,SQL, DataBase and Tableau, embracing the latest technologies for efficient and effective data analysis.
 * 🔍 Insightful Analysis: Committed to delivering insights that drive strategic business decisions, translating data into actionable recommendations.
 
 Ready to elevate your data strategy? Let's collaborate on your next project! [Connect with me](https://www.linkedin.com/in/eman-refaat/)
